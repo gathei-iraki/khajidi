@@ -1,0 +1,16 @@
+
+body {
+  background-image: url("../video/MAP\ OF\ THE\ SOUL\ ON_E\ on\ We\ Heart\ It.gif");
+  background-repeat: no-repeat;
+ width: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+}
+#text{
+  opacity:0.6;
+  color: aliceblue;
+  background-color: grey;
+  font-weight: 600;
+  text-align: center;
+  font-size:150%;
+}
